@@ -2,7 +2,7 @@
 
 **`IoT Enthusiast `**
 
-Hello! My name is Muhammad Raffa Suherman, but I’m usually called Raffa. I am a 17-year-old high school student with a strong interest in the Internet of Things (IoT) and programming. I enjoy learning about technology, honing my skills, and applying them to real-world projects.<br>I am committed to continuing to learn, experiment, and develop my technology skills, even though I am still a student. For me, every new experience is an opportunity to grow and expand my knowledge.
+Hello! My name is Muhammad Raffa Suherman, but I’m usually called Raffa. I am a 18-year-old high school student with a strong interest in the Internet of Things (IoT) and programming. I enjoy learning about technology, honing my skills, and applying them to real-world projects.<br>I am committed to continuing to learn, experiment, and develop my technology skills, even though I am still a student. For me, every new experience is an opportunity to grow and expand my knowledge.
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@rffashrmn) 
 
